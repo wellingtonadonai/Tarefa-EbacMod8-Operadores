@@ -1,3 +1,7 @@
+/**
+ * @author Wellington Oliveira
+ */
+
 public class CalculoMediaNota {
 
     public static void main(String[] args) {
